@@ -47,10 +47,6 @@ a {
   text-decoration: none;
 }
 
-p {
-  font-size: 16px;
-}
-
 .hero {
   height: 800px;
   width: 100%;
@@ -60,20 +56,24 @@ p {
   background-position: center;
 }
 
+.content {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
+
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
+p {
+  font-size: 16px;
+}
+
 .float-right {
   float: right;
   margin-left: 25px;
-}
-
-.content {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
 }
 
 .benefits {
