@@ -14,4 +14,4 @@
 
 <h2>Screenshot</h2>
 
-<img src="./assets/images/screencapture-file-C-Users-adamc-bootcamp-homework-horiseon-code-refactor-index-html-2023-11-30-18_00_20.png">
+<img src="./assets/images/hoiseon-screenshot.png">
