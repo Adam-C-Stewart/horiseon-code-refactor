@@ -15,3 +15,7 @@
 <h2>Screenshot</h2>
 
 <img src="./assets/images/hoiseon-screenshot.png">
+
+<h2>Credits</h2>
+
+<p>Skills for life/Edx bootcamp Team</p>
