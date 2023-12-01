@@ -23,4 +23,4 @@
 <h2>Code source</h2>
 
 <p>The cose source can be found within <strong>horiseon-code-refactor</strong> repo.
-within that the html can be found within the index.html file and the linked CSS file can be found by navigating into the assests folder>css>style.css. </p>
+within that the html can be found within the <strong>index.html</strong> file and the linked CSS file can be found by navigating into the assests folder>css><strong>style.css</strong>. </p>
